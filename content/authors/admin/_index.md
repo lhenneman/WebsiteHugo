@@ -14,16 +14,18 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Harvard TH Chan School of Public Health
   url: "https://www.hsph.harvard.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm interested in evaluating environmental policies.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Environmental policy
+- Health effects of air quality interventions
+- Air pollution modeling
+- Regulatory accountability
+- Big data applications
 
 education:
   courses:
