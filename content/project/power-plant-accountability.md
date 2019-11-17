@@ -13,7 +13,7 @@ Using HyADS, we quantified nationwide changes in exposure to coal power plant em
 
 {{< figure library="true" src="Hyads_change.png" title="Change in HyADS, 2005-2012. Adapted from [Henneman et al. (2019)]({{< ref "/publication/henneman-2018-a/index.md" >}})" numbered="true" lightbox="true" >}}
 
-Using the variability in the HyADS metric over time and space, we are applying epidemiological methods designed to mitigate threats of observed and observed confounding (check out [Henneman et al. (2019)]({{< ref "/publication/henneman-2018-b/index.md" >}})). With a team of researchers at Harvard and UT Austin, I identified substantial health benefits of the emissions decreases between 2005 and 2012, and differences in the health impacts of decreases in coal exposure compared to health impacts of decreases in exposure to ambient PM_{2.5} concentrations.
+Using the variability in the HyADS metric over time and space, we are applying epidemiological methods designed to mitigate threats of observed and observed confounding (check out [Henneman et al. (2019)]({{< ref "/publication/henneman-2018-b/index.md" >}})). With a team of researchers at Harvard and UT Austin, I identified substantial health benefits of the emissions decreases between 2005 and 2012, and differences in the health impacts of decreases in coal exposure compared to health impacts of decreases in exposure to ambient PM2.5 concentrations.
 
 
 
