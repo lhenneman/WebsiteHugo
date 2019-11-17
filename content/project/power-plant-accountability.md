@@ -9,7 +9,7 @@ In my current position, I address questions of air quality accountability using 
 
 Using HyADS, we quantified nationwide changes in exposure to coal power plant emissions after 2005. Total nationwide exposure to coal emissions decreased by 70% between 2005 and 2012, and most of the benefits were acheived in the eastern United States. Here, we show the spatial distribution of the change in HyADS coal exposure metric between 2005 and 2012.
 
-{{< figure library="true" src="Hyads_change.png" title="Change in HyADS, 2005-2012. Adapted from (Henneman et al. (2019) _Atmospheric Environment_.)[https://www.lucashenneman.org/publication/henneman-2018-a/]" numbered="true" lightbox="true" >}}
+{{< figure library="true" src="Hyads_change.png" title="Change in HyADS, 2005-2012. Adapted from [Henneman et al. (2019) _Atmospheric Environment_.](https://www.lucashenneman.org/publication/henneman-2018-a/)" numbered="true" lightbox="true" >}}
 
 ![Change in HyADS, 2005-2012.](/img/Hyads_change.png)
 
