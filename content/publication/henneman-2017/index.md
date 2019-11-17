@@ -7,5 +7,6 @@ publication_types: ["7"]
 abstract: ""
 featured: false
 publication: ""
+url_pdf: "https://smartech.gatech.edu/handle/1853/60156"
 ---
 
