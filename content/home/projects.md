@@ -22,16 +22,16 @@ subtitle = ""
   filter_default = 0
   
   # [[content.filter_button]]
-     name = "All"
-     tag = "*"
+  #   name = "All"
+  #   tag = "*"
   
   # [[content.filter_button]]
-     name = "Coal plants"
-     tag = "coal"
+  #   name = "Coal plants"
+  #   tag = "coal"
   
   # [[content.filter_button]]
-     name = "Southeast Accountability"
-     tag = "APA"
+  #   name = "Southeast Accountability"
+  #   tag = "APA"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
