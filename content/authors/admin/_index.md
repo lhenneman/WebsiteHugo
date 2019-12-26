@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my personal website---I am Lucas Henneman, postdoc at the Harvard University School of Public Health. Take a look around, and please don't hesitate to contact me.
+Welcome to my personal website---I am Lucas Henneman, postdoc at the Harvard University School of Public Health. Take a look around, and please don't hesitate to reach out.
