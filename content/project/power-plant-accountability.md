@@ -1,5 +1,5 @@
 ---
-title: "Power Plant Accountability"
+title: "Air pollution accountability and United States coal power plants"
 date: 2019-11-16T18:07:53-05:00
 draft: false
 tags: [coal,accountability]

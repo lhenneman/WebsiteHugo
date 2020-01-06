@@ -1,5 +1,5 @@
 ---
-title: "Southeast Accountability"
+title: "Air pollution accountability in the southeastern United States"
 date: 2019-11-16T18:46:38-05:00
 draft: false
 tags: ["accountability"]
