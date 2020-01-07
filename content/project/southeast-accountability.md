@@ -2,7 +2,7 @@
 title: "Air pollution accountability in the southeastern United States"
 date: 2019-11-16T18:46:38-05:00
 draft: false
-tags: ["accountability"]
+tags: [accountability,United States,mobile emissions sources,power plants]
 ---
 
 As part of my PhD research, I investigated changes in air quality and source-specific emissions across the Southeast. I employed several data sources—such as observed and modeled air quality and emissions—and analytical tools—including both statistical and deterministic modeling. For instance, I showed how emissions at power plants in the Southeast decreased differently with different regulations:
