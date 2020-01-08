@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: [PhD in Environmental Engineering](https://smartech.gatech.edu/handle/1853/60156)
+  - course: <a href="https://smartech.gatech.edu/handle/1853/60156">PhD in Environmental Engineering</a>
     institution: Georgia Institute of Technology
     year: 2017
   - course: MS in Environmental Engineering
