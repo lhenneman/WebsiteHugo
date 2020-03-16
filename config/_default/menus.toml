@@ -24,6 +24,11 @@
   weight = 40
 
 [[main]]
+  name = "Projects"
+  url = "#classes"
+  weight = 45
+
+[[main]]
   name = "Public"
   url = "#twitter"
   weight = 50
