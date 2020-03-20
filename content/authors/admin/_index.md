@@ -34,7 +34,7 @@ education:
     year: 2017
   - course: MS in Environmental Engineering
     institution: Georgia Institute of Technology
-    year: 2015
+    year: 2014
   - course: BS in Environmental Engineering
     institution: Johns Hopkins University
     year: 2012
