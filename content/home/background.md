@@ -23,7 +23,7 @@ subtitle = ""
 
 Our world is changing all the time. Some change is fast, some change is slow, and all change looks different across the world. Wielded appropriately, this change can be an awesome tool for learning more about our environment and our health.
 
-I'm most interested in changes in our air quality, which causes millions of deaths each year world-wide. Many countries have implemented regulations to curb this burden, and we can study these regulations using the Accountability Chain.
+I'm most interested in changes in our air quality---air pollution causes millions of deaths each year world-wide. Many countries have implemented regulations to curb this burden, and we can study these regulations using the Accountability Chain.
 
 {{< figure library="true" src="AccountabilityChain.png" title="Air pollution accountability chain" lightbox="true" >}}
 
