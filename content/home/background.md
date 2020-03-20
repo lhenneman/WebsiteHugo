@@ -29,7 +29,7 @@ I'm most interested in changes in our air quality, which causes millions of deat
 
 This framework describes how regulations impact emissions, air quality, personal dose/exposure, and ultimately public health. Though we can make measurements at each of these links, the relationships that are most informative for policymakers (blue portions of the arrows) are clouded by other factors (red portions). 
 
-I'm building a multi-disciplenary team that will advance research along the Accountability Chain. We'll build and evaluate models and devise new analytical techniques to create evidence for continued improvements in envornmental policy at scales local to global. If you're a prospective graduate student with strong analytical skills, please review my [ongoing projects](https://www.lucashenneman.org/#projects) and [recent papers](https://www.lucashenneman.org/publication/) and reach out.
+I'm building a multi-disciplenary team that will advance research along the Accountability Chain. We'll build and evaluate models and devise new analytical techniques to create evidence for continued improvements in envornmental policy at scales local to global. If you're a prospective graduate student with strong analytical skills, please review my [ongoing projects](#projects) and [recent papers](https://www.lucashenneman.org/publication/) and reach out.
 
 
 
