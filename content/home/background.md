@@ -19,14 +19,15 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+Our world is changing all the time. Some change is fast, some change is slow, and all change looks different in across the world. One thing about this change is certain, however---it can all be used to learn more about our environment and our health.
 
-My research targets environmental problems related to air pollution
+I'm most interested in changes in our air quality, which causes millions of deaths each year world-wide. Many countries have instituted regulations to curb this burden, which we can study using the Accountability Chain.
 
-through collaboration with experts in multiple fields and environmental stakeholders, while emphasizing the role of data and modern tools for data science. In particular, I am interested in Air Pollution Accountability, a field that tries to answer the question ‘Was it all worth it?’ in regard to air quality regulations. 
+![Accountability Chain](/img/AccountabilityChain.png)
 
-I prioritize communication with stakeholders affected by the links in the Accountability Chain (if you’re one of them, please reach out!), and I hope that my efforts will contribute to continued implementation of scientifically sound policies throughout the world.
+This framework describes how regulations impact emissions, air quality, personal dose/exposure, and ultimately public health. Though we can make measurements at each of these links, the relationships that most inform policy (blue portions of the arrows) are clouded by other factors (red portions). 
 
-In pursuing this research, I investigate relationships between links along the Chain of Accountability (figure below). This framework describes how regulations impact emissions, air quality, personal dose/exposure, and ultimately public health. Though we can measure changes at each of these links, the relationships that accountability researchers are interested in (blue portions of the arrows) are clouded by other factors (red portions), making it difficult to causally attribute changes at any link to air quality regulations.
+I'm building a multi-disciplenary team that will advance research along the Accountability Chain. We'll build and evaluate models and devise new analytical techniques to create evidence for continued improvements in envornmental policy across various scales, from local to global. If you're a prospective graduate student with strong analytical skills, please review my [ongoing projects](https://www.lucashenneman.org/#projects) and [recent papers](https://www.lucashenneman.org/#publications) and reach out.
 
-![HyADS in each year](/img/AccountabilityChain.png)
+
 
