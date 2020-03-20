@@ -21,7 +21,7 @@ subtitle = ""
 +++
 {{< figure library="true" src="atl_skyline.png" title="Open eyes, clear skies, can't lose." lightbox="true" >}}
 
-Our world is changing all the time. Some change is fast, some change is slow, and all change looks different across the world. Yielded appropriately, this change can be an awesome tool for learning more about our environment and our health.
+Our world is changing all the time. Some change is fast, some change is slow, and all change looks different across the world. Wielded appropriately, this change can be an awesome tool for learning more about our environment and our health.
 
 I'm most interested in changes in our air quality, which causes millions of deaths each year world-wide. Many countries have implemented regulations to curb this burden, and we can study these regulations using the Accountability Chain.
 
