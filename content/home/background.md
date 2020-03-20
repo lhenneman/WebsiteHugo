@@ -20,7 +20,7 @@ subtitle = ""
  css_class = ""
 +++
 ![City skyline](/img/atl_skyline.jpg)
-{{< figure library="true" src="atl_skyline.jpg" title="Open eyes, clear skies, can't lose." lightbox="true" >}}
+{{< figure library="true" src="atl_skyline.png" title="Open eyes, clear skies, can't lose." lightbox="true" >}}
 
 Our world is changing all the time. Some change is fast, some change is slow, and all change looks different across the world. One thing about this change is certain, however---it can all be used to learn more about our environment and our health.
 
