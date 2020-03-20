@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my personal website---I am Lucas Henneman, postdoc at the Harvard Chan School of Public Health. I've accepted an Assistant Professor appointment in George Mason University's Sid and Reva Dewberry Department of Civil, Environmental, and Infrastructure Engineering starting August 2020. Take a look around and please don't hesitate to reach out.
+Welcome to my personal website---I am a postdoc at the Harvard Chan School of Public Health. I've accepted an Assistant Professor appointment in George Mason University's Sid and Reva Dewberry Department of Civil, Environmental, and Infrastructure Engineering starting August 2020. Take a look around and please don't hesitate to reach out.
