@@ -19,6 +19,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+![City skyline](/img/atl_skyline.jpg)
+
 Our world is changing all the time. Some change is fast, some change is slow, and all change looks different in across the world. One thing about this change is certain, however---it can all be used to learn more about our environment and our health.
 
 I'm most interested in changes in our air quality, which causes millions of deaths each year world-wide. Many countries have instituted regulations to curb this burden, which we can study using the Accountability Chain.
