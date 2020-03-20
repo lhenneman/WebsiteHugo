@@ -18,7 +18,7 @@ organizations:
   url: "https://www.hsph.harvard.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm interested in evaluating environmental policies.
+bio: Linking regulations to emissions, air quality, and health
 
 interests:
 - Environmental policy
@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my personal website---I am Lucas Henneman, postdoc at the Harvard University School of Public Health. Take a look around, and please don't hesitate to reach out.
+Welcome to my personal website---I am Lucas Henneman, postdoc at the Harvard Chan School of Public Health. I've accepted an Assistant Professor appointment in George Mason's Sid and Reva Dewberry Department of Civil, Environmental, and Infrastrecture Engineering starting August 2020. Take a look around and please don't hesitate to reach out.

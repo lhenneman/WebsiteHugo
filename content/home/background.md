@@ -20,7 +20,9 @@ subtitle = ""
  css_class = ""
 +++
 
-I am driven to solve complex environmental problems through collaboration with experts in multiple fields and environmental stakeholders, while emphasizing the role of data and modern tools for data science. In particular, I am interested in Air Pollution Accountability, a field that tries to answer the question ‘Was it all worth it?’ in regard to air quality regulations. 
+My research targets environmental problems related to air pollution
+
+through collaboration with experts in multiple fields and environmental stakeholders, while emphasizing the role of data and modern tools for data science. In particular, I am interested in Air Pollution Accountability, a field that tries to answer the question ‘Was it all worth it?’ in regard to air quality regulations. 
 
 I prioritize communication with stakeholders affected by the links in the Accountability Chain (if you’re one of them, please reach out!), and I hope that my efforts will contribute to continued implementation of scientifically sound policies throughout the world.
 
