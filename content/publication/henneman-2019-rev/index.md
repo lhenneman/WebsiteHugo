@@ -7,6 +7,8 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Journal of Exposure Science and Environmental Epidemiology*"
+url_pdf: "https://rdcu.be/b3bBX"
+url_code: "https://github.com/lhenneman/simple_and_complex_AQ"
 doi: "https://doi.org/10.1038/s41370-020-0219-1"
 ---
 
