@@ -15,7 +15,7 @@ user_groups = ["PI",
                "Grad Students",
                "Administration",
                "Visitors",
-               "Alumni"]
+               "Alumni"] 
 
 [design]
   # Toggle between the various page layout types.
