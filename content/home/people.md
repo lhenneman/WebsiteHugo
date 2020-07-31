@@ -11,7 +11,7 @@ subtitle = ""
 [content]
 # List user groups to display.
 #   Edit each user's `user_groups` to add them to one or more of these groups.
-user_groups = ["PI",
+user_groups = [#"PI",
                "Researchers",
                "Grad Students",
                "Administration",
@@ -23,7 +23,15 @@ user_groups = ["PI",
   show_social = false
 
   # Show user's interests? (true/false)
-  show_interests = true
+  show_interests = false
+  
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view = 2
+
 
 [design.background]
   # Apply a background color, gradient, or image.
