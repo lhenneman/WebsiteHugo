@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Harvard TH Chan School of Public Health
-  url: "https://www.hsph.harvard.edu/"
+- name: Sid and Reva Dewberry Department of Civil, Environmental, and Infrastructure Engineering
+  url: "https://civil.gmu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Linking regulations to emissions, air quality, and health
