@@ -71,5 +71,4 @@ user_groups:
 - "PI"
 ---
 
-# provide a 2-3 sentence bio
 Welcome to my personal website---I am an Environmental Engineer interested in the health and air quality benefits of environmental regulations. I teach classes in air pollution, environmental models, and systems engineering. Take a look around and please don't hesitate to reach out.
