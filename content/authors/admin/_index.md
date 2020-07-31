@@ -68,8 +68,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
-- Visitors
+- Principal Investigators
 ---
 
 Welcome to my personal website---I am a postdoc at the Harvard Chan School of Public Health. I've accepted an Assistant Professor appointment in George Mason University's Sid and Reva Dewberry Department of Civil, Environmental, and Infrastructure Engineering starting August 2020. Take a look around and please don't hesitate to reach out.
