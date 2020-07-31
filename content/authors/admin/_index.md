@@ -71,4 +71,5 @@ user_groups:
 - "PI"
 ---
 
-Welcome to my personal website---I am a postdoc at the Harvard Chan School of Public Health. I've accepted an Assistant Professor appointment in George Mason University's Sid and Reva Dewberry Department of Civil, Environmental, and Infrastructure Engineering starting August 2020. Take a look around and please don't hesitate to reach out.
+# provide a 2-3 sentence bio
+Welcome to my personal website---I am an Environmental Engineer interested in the health and air quality benefits of environmental regulations. I teach classes in air pollution, environmental models, and systems engineering. Take a look around and please don't hesitate to reach out.
