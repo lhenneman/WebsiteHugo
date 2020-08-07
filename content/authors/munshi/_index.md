@@ -54,4 +54,4 @@ user_groups:
 - "Grad Students"
 ---
 
-I like to introduce myself as an Environmental Engineer. My research interest focus on understanding air quality interventions and their impact on human health. 
+I like to introduce myself as an Environmental Engineer. My research focuses on understanding air quality interventions and their impact on human health. 
