@@ -54,5 +54,4 @@ user_groups:
 - "Grad Students"
 ---
 
-# provide a 2-3 sentence bio
 I like to introduce myself as an Environmental Engineer. My research interest focus on understanding air quality interventions and their impact on human health. 
