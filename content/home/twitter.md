@@ -15,7 +15,7 @@ weight = 90
 
 +++
 ## In the news
-- [Mason Engineer researcher investigates air pollution's impact on health](https://volgenau.gmu.edu/news/588781)
+- [Mason Engineer researcher investigates air pollution's impact on health](https://volgenau.gmu.edu/news/588781) (VSExpress, Oct. 1, 2020)
 
 ## Opinion pieces
 
