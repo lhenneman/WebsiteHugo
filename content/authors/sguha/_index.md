@@ -71,5 +71,4 @@ user_groups:
 - "Grad Students"
 ---
 
-# provide a 2-3 sentence bio
 Hello, I am a PhD student interested and concerned about the global climate change, especially with a focus on South Asia, where I grew up. I am primarily working on air pollution, aerosol emissions and their impacts on the South east Asian monsoons.
