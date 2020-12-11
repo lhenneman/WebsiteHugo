@@ -14,7 +14,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: George Mason University Sid and Reva Dewberry Department of Civil, Environmental, and Infrastructure Engineering
+- name: George Mason University Department of Civil, Environmental, and Infrastructure Engineering
   url: "https://civil.gmu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
