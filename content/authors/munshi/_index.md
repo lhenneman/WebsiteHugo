@@ -18,7 +18,8 @@ organizations:
   url: "https://civil.gmu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-#bio: 
+bio: linking regulations with emissions, air quality, exposure and health
+
 interests:
 - Understanding short/long term interventions on air quality
 - Understanding health effects due to poor air quality
@@ -27,7 +28,7 @@ interests:
 - Machine Learning
 
 education:
-  courses: linking regulations with emissions, air quality, exposure and health
+  courses: 
   - course: MS in Environmental Engineering
     institution: George Washington University
     year: 2019
