@@ -68,8 +68,8 @@ email: sguha2@gmu.edu
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- "PI"
+user_groups: 
+- "Grad Students"
 ---
 
 Hello, I am a PhD student interested and concerned about the global climate change, and how effective are the policies in reducing the harmful emissions causing that. I am primarily working on air pollution emissions, meteorological effects, recent environmental policies and their impacts in China and in the US.
