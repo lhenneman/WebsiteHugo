@@ -4,28 +4,28 @@ name: Shreya Guha
 
 # Username (this should match the folder name)
 authors:
-- guha
+- admin
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: PhD Student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: Sid and Reva Dewberry Department of Civil, Environmental, and Infrastructure Engineering
+- name: George Mason University Department of Civil, Environmental, and Infrastructure Engineering
   url: "https://civil.gmu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Studying aerosol-meteorology interactions to understand extreme hydrometeorological events over South Asia
+bio: Linking air quality to emissions, meteorology and policy regulations
 
 interests:
 - Air pollution
-- Monsoons
-- Extreme climate events
-- Climate change
-- Evidence-based science policy
+- Climate Change
+- Meteorological Detrending
+- Air pollution modeling
+- Environmental policy evaluation
 
 education:
   courses:
@@ -46,29 +46,30 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:sguha2@masonlive.gmu.edu"  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ShreyaChirps
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: 
-#- icon: github
-#  icon_pack: fab
-#  link:
+- icon: google-scholar
+  icon_pack: ai
+  link: 
+- icon: github
+  icon_pack: fab
+  link: https://github.com/ShreyaGuha
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-#- icon: cv
-#  icon_pack: ai
-#  link: 
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
+#could not upload cv
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "sguha2@gmu.edu"
+email: sguha2@gmu.edu
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- "Grad Students"
+- "PI"
 ---
 
-Hello, I am a PhD student interested and concerned about the global climate change, especially with a focus on South Asia, where I grew up. I am primarily working on air pollution, aerosol emissions and their impacts on the South east Asian monsoons.
+Hello, I am a PhD student interested and concerned about the global climate change, and how effective are the policies in reducing the harmful emissions causing that. I am primarily working on air pollution emissions, meteorological effects, recent environmental policies and their impacts in China and in the US.
