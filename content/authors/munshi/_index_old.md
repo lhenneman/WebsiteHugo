@@ -14,20 +14,19 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: George Mason University Department of Civil, Environmental, and Infrastructure Engineering
+- name: Sid and Reva Dewberry Department of Civil, Environmental, and Infrastructure Engineering
   url: "https://civil.gmu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Researching impact of air quality interventions on public health
 interests:
-- Understanding short/long term interventions on air quality
-- Understanding health effects due to poor air quality
+- Environmental policy and management
+- Health effects of air quality interventions
 - Air quality modeling
 - Big Data analysis
-- Machine Learning
 
 education:
-  courses: linking regulations with emissions, air quality, exposure and health
+  courses:
   - course: MS in Environmental Engineering
     institution: George Washington University
     year: 2019
@@ -52,14 +51,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/munshimdrasel
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: files/cv_rasel.pdf
 
 user_groups: 
 - "Grad Students"
 ---
 
-I like to introduce myself as an Environmental Engineer. My research focuses on understanding the air pollution accountability	chain and helping policy makers to make the right decisions so that we can all enjoy a safe and clean environment. Feel free to take a look at my resume or contact me.
+I like to introduce myself as an Environmental Engineer. My research focuses on understanding air quality interventions and their impact on human health. 
