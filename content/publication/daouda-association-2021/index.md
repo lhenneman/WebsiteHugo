@@ -32,7 +32,7 @@ abstract: Coal has historically been a primary energy source in the United State
 featured: false
 publication: '*Environmental Research Letters*'
 url_pdf: https://doi.org/10.1088/1748-9326/abe4f7
-url_data: https://github.com/misbath/coal-preterm-birth
+url_dataset: https://github.com/misbath/coal-preterm-birth
 doi: 10.1088/1748-9326/abe4f7
 ---
 
