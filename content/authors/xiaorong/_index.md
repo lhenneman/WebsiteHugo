@@ -50,9 +50,13 @@ education:
 #  icon_pack: ai
 #  link: files/cv.pdf
 #could not upload cv
+social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:xshan2@gmu.edu
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: xshan2@gmu.edu
+email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
