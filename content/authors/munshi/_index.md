@@ -18,7 +18,7 @@ organizations:
   url: "https://civil.gmu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+#bio: 
 interests:
 - Understanding short/long term interventions on air quality
 - Understanding health effects due to poor air quality
