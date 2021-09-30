@@ -21,9 +21,9 @@ organizations:
 bio: Linking air quality to emissions, meteorology and policy regulations
 
 interests:
-- Air emissions: PM2.5; PM10; VOCs; NOx
+- Air emissions of PM2.5, PM10, VOCs, and NOx
 - Air quality modeling
-- Data analysis: R programming language
+- Data analysis using R programming language
 - Public health
 - Epidemiology
 
