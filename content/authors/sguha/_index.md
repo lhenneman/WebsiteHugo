@@ -62,10 +62,6 @@ social:
 #  icon_pack: ai
 #  link: files/cv.pdf
 #could not upload cv
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: mailto:sguha2@gmu.edu
-  
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 # Link to a PDF of your resume/CV from the About widget.
